@@ -47,3 +47,9 @@
 	<li>"100$ Startup" <span>by Chris Guillebeau</span></li>
 	<li>"AI Ethics" <span>by Mark Coeckelbergh</span></li>
 	<li>"Classical Mechanics" <span>by Leonard Susskind</span></li>
+	<li>"Quantum Mechanics" <span>by Leonard Susskind</span></li>
+	<li>"The Guns of August" <span>by Barbara Tuchman</span></li>
+	<li>"How to Avoid A Climate Disaster" <span>by Bill Gates</span></li>
+	<li>"Recycling" <span>by Finn Arne Jørgensen</span></li>
+	<li>"Beyond Order" <span>by Jordan B. Peterson</span></li>
+	<li>"1984 (Penguin Classics Edition)" <span>by George Orwell</span></li>
