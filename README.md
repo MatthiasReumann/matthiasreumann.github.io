@@ -1,5 +1,5 @@
 # library
-**list of books i own and read**
+**list of books i own**
 
 <li>"Ego is the Enemy" <span>by Ryan Holiday</span></li>
 	<li>"Stillness Is The Key" <span>by Ryan Holiday</span></li>
