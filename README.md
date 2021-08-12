@@ -53,3 +53,7 @@
 	<li>"Recycling" <span>by Finn Arne Jørgensen</span></li>
 	<li>"Beyond Order" <span>by Jordan B. Peterson</span></li>
 	<li>"1984 (Penguin Classics Edition)" <span>by George Orwell</span></li>
+	<li>"Animal Farm" <span>by George Orwell</span></li>
+	<li>"SPQR" <span>by Mary Beard</span></li>
+	<li>"Meditations" <span>by Marcus Aurelius</span></li>
+	<li>"On The Shortness of Life" <span>by Seneca</span></li>
