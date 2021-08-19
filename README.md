@@ -57,3 +57,4 @@
 * "SPQR" by Mary Beard
 * "Meditations" by Marcus Aurelius
 * "On The Shortness of Life" by Seneca
+* "How To Change Your Mind" by Michael Pollan
