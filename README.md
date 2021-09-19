@@ -58,3 +58,5 @@
 * "Meditations" by Marcus Aurelius
 * "On The Shortness of Life" by Seneca
 * "How To Change Your Mind" by Michael Pollan
+* "The Overstory" by Richard Powers
+* "Dune" by Frank Herbert
